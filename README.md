@@ -38,3 +38,6 @@
 ### Задание 5*
 
 Найдите фильмы, которые ни разу не брали в аренду.
+
+<img width="445" height="237" alt="image" src="https://github.com/user-attachments/assets/74cdf665-012f-4340-b33d-6b4e14c5894f" />
+
